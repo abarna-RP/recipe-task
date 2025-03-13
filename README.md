@@ -1,3 +1,7 @@
+# Recipes API
+
+A RESTful API for managing recipes using Node.js, Express.js, and MongoDB.
+
 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐄𝐚𝐜𝐡 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭:
 【=】【=】【=】【>】Description: Creates a new recipe.
 

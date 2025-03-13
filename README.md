@@ -1,5 +1,5 @@
-Documentation Each Endpoint:
-===>Description: Creates a new recipe.
+𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐄𝐚𝐜𝐡 𝐄𝐧𝐝𝐩𝐨𝐢𝐧𝐭:
+【=】【=】【=】【>】Description: Creates a new recipe.
 
 Request Body Parameters:
 
@@ -21,7 +21,7 @@ JSON
     "category": "Pasta",
     "__v": 0
 }
-===>Description: Retrieves a list of all recipes.
+【=】【=】【=】【>】Description: Retrieves a list of all recipes.
 
 Success Response (200 OK):
 
@@ -47,7 +47,7 @@ JSON
         "__v": 0
     }
 ]
-===> Description: Retrieves a single recipe by its ID.
+【=】【=】【=】【>】 Description: Retrieves a single recipe by its ID.
 
 Path Parameters:
 
@@ -66,7 +66,7 @@ JSON
     "category": "Pasta",
     "__v": 0
 }
-===>Description: Updates an existing recipe by its ID.
+【=】【=】【=】【>】Description: Updates an existing recipe by its ID.
 
 Path Parameters:
 
@@ -91,7 +91,7 @@ JSON
     "category": "Pasta",
     "__v": 0
 }
-===>Description: Deletes a recipe by its ID.
+【=】【=】【=】【>】Description: Deletes a recipe by its ID.
 Path Parameters:
 
 id (String, Required): The ID of the recipe to delete.
@@ -104,4 +104,4 @@ JSON
 {
     "message": "Recipe deleted"
 }
-![alt image]()
+![alt image](https://github.com/abarna-RP/recipe-task/blob/main/postman%20output.png)
